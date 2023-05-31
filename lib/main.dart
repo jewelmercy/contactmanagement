@@ -18,7 +18,7 @@ class MyApp extends ConsumerWidget {
     return MaterialApp.router(
         debugShowCheckedModeBanner: false,
         routerConfig: AppRoutes.routes,
-        title: 'Flutter Demo',
+        title: 'Flutter Contact management',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
